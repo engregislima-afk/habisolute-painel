@@ -1,3 +1,1 @@
-git add runtime.txt
-git commit -m "fix: pin python 3.11 for Streamlit Cloud"
-git push
+python-3.11
