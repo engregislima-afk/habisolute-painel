@@ -1,0 +1,9 @@
+[server]
+headless = true
+port = 8501
+enableCORS = true
+enableXsrfProtection = true
+runOnSave = true
+
+[theme]
+base = "dark"  # só default; seu app já alterna claro/escuro
