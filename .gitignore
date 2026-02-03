@@ -1,14 +1,1 @@
-# Python
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
-.venv/
-venv/
-.env
 
-# Local data
-*.db
-
-# Streamlit local secrets
-.streamlit/secrets.toml
