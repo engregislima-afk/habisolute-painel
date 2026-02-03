@@ -1,3 +1,0 @@
-git add runtime.txt requirements.txt
-git commit -m "chore: pin python 3.11 and libs for Streamlit Cloud"
-git push
